@@ -11,5 +11,5 @@
 <img width="24" height="24" src="https://img.icons8.com/nolan/64/lua-language--v1.png" alt="lua-language--v1"></img>
 <img width="24" height="24" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"></img>
 
-#### Log
-none
+#### Logs
+* [使用WebAssembly加速web应用](https://github.com/lilindog/links/tree/master/webassembly-base64)
